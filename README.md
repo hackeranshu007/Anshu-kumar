@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m [Your Name]!<br><br>I’m passionate about coding and technology. On my GitHub, you’ll find projects related to C programming, file handling, and management systems. I enjoy building modular, well-structured code and learning new programming concepts.<br>Feel free to explore my repositories and connect for collaboration or feedback!<br>currently i am working on Patient Managment system ,my future goal is to become best web devloper and programer
+Hi, I’m Anshu kumar!<br><br>I’m passionate about coding and technology. On my GitHub, you’ll find projects related to C programming, file handling, and management systems. I enjoy building modular, well-structured code and learning new programming concepts.<br>Feel free to explore my repositories and connect for collaboration or feedback!<br>currently i am working on Patient Managment system ,my future goal is to become best web devloper and programer
 
 
 ## 🌐 Socials:
